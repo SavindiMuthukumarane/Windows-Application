@@ -1,6 +1,6 @@
 # Automated System for Recording Hostel Students’ Arrivals and Departures
 
-## 📌 Project Overview
+##  Project Overview
 This is a group academic project developed for NSBM Green University.  
 The project is a Windows-based desktop application designed to automate the manual hostel student movement recording system.
 
@@ -8,7 +8,7 @@ The system enables the hostel warden to efficiently record student arrivals, dep
 
 
 
-## 🎯 Objectives
+##  Objectives
 - Automate hostel student movement tracking  
 - Reduce manual record-keeping errors  
 - Improve communication with parents  
@@ -16,12 +16,12 @@ The system enables the hostel warden to efficiently record student arrivals, dep
 
 
 
-## 👥 Target Users
+##  Target Users
 - Hostel Warden (Administrator)
 
 
 
-## ✨ Key Features
+##  Key Features
 - Secure login system  
 - Student and parent registration  
 - Arrival and departure logging with date & time  
@@ -34,7 +34,7 @@ The system enables the hostel warden to efficiently record student arrivals, dep
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Programming Language:C#  
 - Framework: .NET Windows Forms  
 - Database: Microsoft Access (ACCDB)  
@@ -44,7 +44,7 @@ The system enables the hostel warden to efficiently record student arrivals, dep
 
 
 
-## 🧱 System Architecture
+##  System Architecture
 - Single-user desktop application  
 - Modular Windows Forms design  
 - Local MS Access database  
@@ -52,7 +52,7 @@ The system enables the hostel warden to efficiently record student arrivals, dep
 
 
 
-## 🗂️ Database Tables
+##  Database Tables
 - Students  
 - Parents  
 - StudentMovement  
@@ -60,7 +60,7 @@ The system enables the hostel warden to efficiently record student arrivals, dep
 - EmergencyLeave  
 - LoginCredentials  
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Clone the repository  
    ```bash
    git clone https://github.com/SavindiMuthukumarane/Windows Application.git
